@@ -44,8 +44,9 @@ To integrate the chatbot, the following script is added to the HTML of your webs
         domain="www.chatbase.co"
         defer>
         </script>
+## Features
 
-nstallation
+Installation
 Clone the repository:
 
 bash
