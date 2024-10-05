@@ -54,7 +54,7 @@ To integrate the chatbot, the following script is added to the HTML of your webs
 ```
 2. **Navigate to the project directory:**
 ```bash
-cd cybersecure
+cd CyberSecure
 ```
 3. **Open the index.html file in your preferred text editor and ensure the chatbot configuration matches your setup.**
 
