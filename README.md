@@ -45,4 +45,20 @@ To integrate the chatbot, the following script is added to the HTML of your webs
         defer>
         </script>
 
+nstallation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/cybersecure.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd cybersecure
+Open the index.html file in your preferred text editor and ensure the chatbot configuration matches your setup.
+
+Open index.html in a web browser to view the CyberSecure platform.
+
+
 Link : https://cyber-secure-smoky.vercel.app
