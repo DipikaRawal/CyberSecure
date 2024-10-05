@@ -49,11 +49,13 @@ To integrate the chatbot, the following script is added to the HTML of your webs
 ## Installation
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/cybersecure.git
-
+```bash
+   git clone https://github.com/yourusername/CyberSecure.git
+```
 2. **Navigate to the project directory:**
+```bash
 cd cybersecure
-
+```
 3. **Open the index.html file in your preferred text editor and ensure the chatbot configuration matches your setup.**
 
 4. **Open index.html in a web browser to view the CyberSecure platform.**
